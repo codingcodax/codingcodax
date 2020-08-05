@@ -38,6 +38,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Link Hover Effect | HTML - CSS](https://www.youtube.com/watch?v=nb5wd62jUh0)
+- [Link Hover Effect - Adobe XD](https://www.youtube.com/watch?v=ciC_EjSkWFY)
+- [Neumorphism Calculator Speed Code | HTML - CSS - JS](https://www.youtube.com/watch?v=AKU27V5FSF8)
+- [Neumorphism Calculator - Adobe XD](https://www.youtube.com/watch?v=bKsegqua680)
+- [Intro codax](https://www.youtube.com/watch?v=Qx4UVNXBZlQ)
 <!-- YOUTUBE:END -->
 
 ---
