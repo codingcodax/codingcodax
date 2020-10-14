@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Alexis
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
