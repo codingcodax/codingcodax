@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexis
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Developer, and Student!
 
 -   🔭 I’m currently working on a Sayer Project!
 -   🌱 I’m currently learning Node 🤣
