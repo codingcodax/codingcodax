@@ -33,9 +33,3 @@
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a12989x&show_icons=true&hide_border=true" />
-
-<!-- [website]: https://codeSTACKr.com -->
-
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://www.youtube.com/channel/UCMY0GhV1HuX4XdbgalC77VQ
-[instagram]: https://www.instagram.com/a12989x/
