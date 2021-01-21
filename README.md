@@ -2,10 +2,10 @@
 
 ## I'm a Developer, and Student!
 
--   🔭 I’m currently working on a Sayer Project!
--   🌱 I’m currently learning Node 🤣
--   🥅 2020 Goals: Contribute more to Open Source projects
--   ⚡ Fun fact: I love to solve the rubik's cube
+-   🔭 I’m currently working on my Blog!
+-   🌱 I’m currently learning NextJS 🤣
+-   🥅 2020 Goals: Contribute more to Open Source projects.
+-   ⚡ Fun fact: I love to solve the rubik's cube.
 
 ### Languages and Tools:
 
