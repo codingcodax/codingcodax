@@ -1,26 +1,40 @@
-### Hi there, I'm Alexis
+### Hi there, I'm <a href="https://notion-blog-five-theta.vercel.app/" target="_blank">Alexis Guzman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Developer, and Student!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/codax/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://notion-blog-five-theta.vercel.app/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/__codax__)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_codax_/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/A12989x)
 
--   🔭 I’m currently working on my Blog!
--   🌱 I’m currently learning NextJS 🤣
--   🥅 2020 Goals: Contribute more to Open Source projects.
--   ⚡ Fun fact: I love to solve the rubik's cube.
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-### Languages and Tools:
+I am a front-end developer. I love programming, and solve rubik's cube.
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /><img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /><img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+As a font-end developer, I enjoy using my obsessive attention to detail, my unequivocal love for making coding every day.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on my personal blog with notion and nextjs;
+- 🚀 I’m currently learning NextJS on my own;
+- 💬 Ask me about anything, I am happy to help;
+- 📝 I want write articles on [dev.to](https://dev.to/_codax_);
+- 📫 How to reach me: alexis12989x@gmail.com;
+- 📝 Resume[]()(pending).
 
 <br />
 <br />
+
+
+📊 **This Week I Spent My Time On:**
 
 ---
 
-### 📺 Latest YouTube Videos
+📺 **Latest YouTube Videos:**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- YOUTUBE:START -->
 - [Link Hover Effect | HTML - CSS](https://www.youtube.com/watch?v=nb5wd62jUh0)
@@ -32,4 +46,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a12989x&show_icons=true&hide_border=true" />
+<p>
+  <img height="180em" alt="codax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a12989x&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a12989x&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
