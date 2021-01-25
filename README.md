@@ -12,7 +12,7 @@ I am a front-end developer. I love programming, and solve rubik's cube.
 
 As a font-end developer, I enjoy using my obsessive attention to detail, my unequivocal love for making coding every day.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/a12989x/a12989x/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
