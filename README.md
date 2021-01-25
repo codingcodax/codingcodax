@@ -26,15 +26,16 @@ As a font-end developer, I enjoy using my obsessive attention to detail, my uneq
 <br />
 <br />
 
+---
 
 📊 **This Week I Spent My Time On:**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
 📺 **Latest YouTube Videos:**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <!-- YOUTUBE:START -->
 - [Link Hover Effect | HTML - CSS](https://www.youtube.com/watch?v=nb5wd62jUh0)
