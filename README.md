@@ -31,6 +31,9 @@ As a font-end developer, I enjoy using my obsessive attention to detail, my uneq
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ---
