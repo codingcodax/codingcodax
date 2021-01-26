@@ -1,12 +1,16 @@
-### Hi there, I'm <a href="https://notion-blog-five-theta.vercel.app/" target="_blank">Alexis Guzman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://notion-blog-five-theta.vercel.app/" target="_blank">Alexis Guzman</a> 
+<a href="https://codax.vercel.app/" target="_blank">
+  <img alt="Codax image" src="https://github.com/a12989x/a12989x/blob/master/GitHubHeader.png?raw=true" />
+</a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=a12989x.a12989x)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/codax/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://notion-blog-five-theta.vercel.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/__codax__)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_codax_/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/A12989x)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=a12989x.a12989x)
+### Glad to see you here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am a front-end developer. I love programming, and solve rubik's cube.
 
