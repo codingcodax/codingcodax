@@ -1,4 +1,3 @@
-### Hi there, I'm <a href="https://notion-blog-five-theta.vercel.app/" target="_blank">Alexis Guzman</a> 
 <a href="https://codax.vercel.app/" target="_blank">
   <img alt="Codax image" src="https://github.com/a12989x/a12989x/blob/master/GitHubHeader.png?raw=true" />
 </a>
