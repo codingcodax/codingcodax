@@ -19,7 +19,7 @@ As a font-end developer, I enjoy using my obsessive attention to detail, my uneq
 
 **Talking about Personal Stuffs:**
 
-# - 👨🏻‍💻 I’m currently working on my personal blog with notion and nextjs;
+<!--- - 👨🏻‍💻 I’m currently working on my personal blog with notion and nextjs; -->
 - 🚀 I’m currently building and CLI app ([ReexJs CLI](https://github.com/a12989x/reexjs-cli));
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I write articles in [Hashnode](https://codax.hashnode.dev/) and [dev.to](https://dev.to/_codax_);
