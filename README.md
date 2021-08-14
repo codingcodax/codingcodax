@@ -36,11 +36,11 @@ As a font-end developer, I enjoy using my obsessive attention to detail, my uneq
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 20 mins   ██████████████████████▒░░   88.84 % 
-MDX          51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript   13 hrs 41 mins  █████████████████████▓░░░   87.14 % 
+MDX          51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+JSON         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
 
