@@ -24,8 +24,8 @@ As a font-end developer, I enjoy using my obsessive attention to detail, my uneq
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I write articles in [Hashnode](https://codax.hashnode.dev/) and [dev.to](https://dev.to/_codax_);
 - 📫 How to reach me: codaxtech@gmail.com;
-- 📝 Resume[]()(pending).
-- 💻 Website [Codax](https://codax.vercel.app/)
+- 📝 [Resume](https://read.cv/codax).
+- 💻 [Website](https://codax.vercel.app/)
 
 <br />
 <br />
