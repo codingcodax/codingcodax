@@ -4,9 +4,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=a12989x.a12989x)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/codax/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://notion-blog-five-theta.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://codaxx.ml/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/__codax__)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_codax_/)
+<!--- - [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_codax_/) -->
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/A12989x)
 
 ### Glad to see you here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -20,12 +20,12 @@ As a font-end developer, I enjoy using my obsessive attention to detail, my uneq
 **Talking about Personal Stuffs:**
 
 <!--- - 👨🏻‍💻 I’m currently working on my personal blog with notion and nextjs; -->
-- 🚀 I’m currently building and CLI app ([ReexJs CLI](https://github.com/a12989x/reexjs-cli));
+- 🚀 I’m currently building an CLI app ([ReexJs CLI](https://github.com/a12989x/reexjs-cli));
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I write articles in [Hashnode](https://codax.hashnode.dev/) and [dev.to](https://dev.to/_codax_);
 - 📫 How to reach me: codaxtech@gmail.com;
 - 📝 [Resume](https://read.cv/codax).
-- 💻 [Website](https://codax.vercel.app/)
+- 💻 [Website](https://codaxx.ml/)
 
 <br />
 <br />
