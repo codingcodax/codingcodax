@@ -1,6 +1,6 @@
-<a href="https://codax.vercel.app/" target="_blank">
-  <img alt="Codax image" src="https://github.com/a12989x/a12989x/blob/master/GitHubHeader.png?raw=true" />
-</a>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>Hi, I'm Alexis Guzman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<p><em>Front-end Web Developer</em></p>
 
 <p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=a12989x.a12989x&left_color=black&right_color=gray" alt="visitor badge"/>
@@ -24,56 +24,31 @@
   </a>
 </p>
 
-### Glad to see you here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a front-end developer. I love programming, and solve rubik's cube.
+<h3>A little more about me...</h3>
 
-As a font-end developer, I enjoy using my obsessive attention to detail, my unequivocal love for making coding every day.
-
-<img align="right" alt="GIF" src="https://github.com/a12989x/a12989x/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-**Talking about Personal Stuffs:**
-
-<!--- - 👨🏻‍💻 I’m currently working on my personal blog with notion and nextjs; -->
-- 🚀 I’m currently building an CLI app ([ReexJs CLI](https://github.com/a12989x/reexjs-cli));
-- 💬 Ask me about anything, I am happy to help;
-- 📝 Sometimes I write articles in [Hashnode](https://codax.hashnode.dev/) and [dev.to](https://dev.to/_codax_);
-- 📫 How to reach me: codaxtech@gmail.com;
-- 📝 [Resume](https://read.cv/codax).
-- 💻 [Website](https://codaxx.ml/)
-
-<br />
-<br />
+```javascript
+const alexis = {
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [NextJS, ReactJS, ChakraUI],
+  askMeAbout: ["web dev", "tech", "app dev", "anime"],
+  technologies: {
+    backEnd: {
+      js: [Node, Express],
+      python: ["Still in waiting list 🥲"]
+    },
+    devOps: ["I'm want to learn about this 😊"],
+    databases: [Mongo, MySQL],
+    misc: [Firebase, Figma]
+  },
+  architecture: ["Progressive web applications", "Single pageapplications"],
+  currentFocus: "Next JS App Development",
+  funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 ---
-
-📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   11 hrs          ███████████████████████░░   92.58 % 
-JSON         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-```
 <!--END_SECTION:waka-->
-
----
-
-📺 **Latest YouTube Videos:**
-
-<!-- YOUTUBE:START -->
-- [Link Hover Effect | HTML - CSS](https://www.youtube.com/watch?v=nb5wd62jUh0)
-- [Link Hover Effect - Adobe XD](https://www.youtube.com/watch?v=ciC_EjSkWFY)
-- [Neumorphism Calculator Speed Code | HTML - CSS - JS](https://www.youtube.com/watch?v=AKU27V5FSF8)
-- [Neumorphism Calculator - Adobe XD](https://www.youtube.com/watch?v=bKsegqua680)
-- [Intro codax](https://www.youtube.com/watch?v=Qx4UVNXBZlQ)
-<!-- YOUTUBE:END -->
-
----
-
-<p>
-  <img alt="codax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a12989x&show_icons=true&theme=dark&locale=en" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a12989x&show_icons=true&theme=dark&locale=en&layout=compact" height="150"/>
-</p>
-
-![](https://github.com/tks18/tks18/raw/output/github-contribution-grid-snake.svg)
