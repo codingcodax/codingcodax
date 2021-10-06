@@ -2,12 +2,27 @@
   <img alt="Codax image" src="https://github.com/a12989x/a12989x/blob/master/GitHubHeader.png?raw=true" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=a12989x.a12989x)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/codax/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://codaxx.ml/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/__codax__)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/A12989x)
-<!--- - [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_codax_/) -->
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=a12989x.a12989x&left_color=black&right_color=gray" alt="visitor badge"/>
+  <a href='https://codaxx.ml/' target='_blank'>
+    <img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-black?logo=vercel&style=flat-square'>
+  </a>
+  <a href='https://linkedin.com/in/codax/' target='_blank'>
+    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-black?logo=LinkedIn&style=flat-square'>
+  </a>
+  <a href='mailto:codaxtech@gmail.com' target='_blank'>
+    <img alt='Email' src='https://img.shields.io/badge/Email-black?logo=Gmail&style=flat-square'>
+  </a>
+  <a href='https://twitter.com/__codax__' target='_blank'>
+    <img alt='Twitter' src='https://img.shields.io/badge/Twitter-black?logo=Twitter&style=flat-square'>
+  </a>
+  <a href='https://www.youtube.com/channel/UCMY0GhV1HuX4XdbgalC77VQ' target='_blank'>
+    <img alt='Youtube' src='https://img.shields.io/badge/YouTube-black?logo=Youtube&style=flat-square'>
+  </a>
+  <a href='https://t.me/A12989x' target='_blank'>
+    <img alt='Telegram' src='https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=ffffff&style=flat-square'>
+  </a>
+</p>
 
 ### Glad to see you here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -22,7 +37,7 @@ As a font-end developer, I enjoy using my obsessive attention to detail, my uneq
 <!--- - 👨🏻‍💻 I’m currently working on my personal blog with notion and nextjs; -->
 - 🚀 I’m currently building an CLI app ([ReexJs CLI](https://github.com/a12989x/reexjs-cli));
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I write articles in [Hashnode](https://codax.hashnode.dev/) and [dev.to](https://dev.to/_codax_);
+- 📝 Sometimes I write articles in [Hashnode](https://codax.hashnode.dev/) and [dev.to](https://dev.to/_codax_);
 - 📫 How to reach me: codaxtech@gmail.com;
 - 📝 [Resume](https://read.cv/codax).
 - 💻 [Website](https://codaxx.ml/)
@@ -57,8 +72,8 @@ JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░
 ---
 
 <p>
-  <img height="180em" alt="codax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a12989x&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a12989x&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img alt="codax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a12989x&show_icons=true&theme=dark&locale=en" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a12989x&show_icons=true&theme=dark&locale=en&layout=compact" height="150"/>
 </p>
 
 ![](https://github.com/tks18/tks18/raw/output/github-contribution-grid-snake.svg)
