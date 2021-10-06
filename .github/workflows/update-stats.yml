@@ -18,3 +18,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+waka-readme-stats workflow
