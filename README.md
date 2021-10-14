@@ -24,6 +24,12 @@
   </a>
 </p>
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx codax
+```
+**👆 This command line tool can be found at [npx codax](https://github.com/a12989x/codax)**
 
 <h3>A little more about me...</h3>
 
