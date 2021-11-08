@@ -90,18 +90,16 @@ Sunday       25 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               16 mins             ██████████████████████░░░   89.0% 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.61% 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-github-profile-explorer  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -118,5 +116,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2021
+ Last Updated on 08/11/2021
 <!--END_SECTION:waka-->
