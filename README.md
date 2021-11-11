@@ -90,16 +90,18 @@ Sunday       25 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               41 mins             ██████████████████░░░░░░░   72.22% 
+JSON                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.14% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+web-screapper-midu       57 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    57 mins             █████████████████████████   100.0%
 
 ```
 
@@ -116,5 +118,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
