@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=a12989x.a12989x&left_color=black&right_color=gray" alt="visitor badge"/>
-  <a href='https://codaxx.ml/' target='_blank'>
+  <a href='https://www.codingcodax.dev/' target='_blank'>
     <img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-black?logo=vercel&style=flat-square'>
   </a>
   <a href='https://linkedin.com/in/codax/' target='_blank'>
