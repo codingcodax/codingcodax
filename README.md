@@ -13,13 +13,16 @@
   <a href='mailto:codaxtech@gmail.com' target='_blank'>
     <img alt='Email' src='https://img.shields.io/badge/Email-black?logo=Gmail&style=flat-square'>
   </a>
-  <a href='https://twitter.com/__codax__' target='_blank'>
+  <a href='https://twitter.com/codingcodax' target='_blank'>
     <img alt='Twitter' src='https://img.shields.io/badge/Twitter-black?logo=Twitter&style=flat-square'>
+  </a>
+  <a href='https://www.instagram.com/codingcodax/' target='_blank'>
+    <img alt='Twitter' src='https://img.shields.io/badge/Instagram-black?logo=Instagram&style=flat-square'>
   </a>
   <a href='https://www.youtube.com/channel/UCMY0GhV1HuX4XdbgalC77VQ' target='_blank'>
     <img alt='Youtube' src='https://img.shields.io/badge/YouTube-black?logo=Youtube&style=flat-square'>
   </a>
-  <a href='https://t.me/A12989x' target='_blank'>
+  <a href='https://t.me/codingcodax' target='_blank'>
     <img alt='Telegram' src='https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=ffffff&style=flat-square'>
   </a>
 </p>
