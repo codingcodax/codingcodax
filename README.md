@@ -25,9 +25,6 @@
   <a href='https://t.me/codingcodax' target='_blank'>
     <img alt='Telegram' src='https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=ffffff&style=flat-square'>
   </a>
-  <a href="https://wakatime.com/@65506d37-b2cc-4c1c-b25b-e690d9d35fd3">
-    <img src="https://wakatime.com/badge/user/65506d37-b2cc-4c1c-b25b-e690d9d35fd3.svg" alt="Total time coded since Jan 25 2021" />
-  </a>
 </p>
 
 👇 Hit in your console or terminal to connect with me.
