@@ -40,7 +40,7 @@ npx codax
 const alexis = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [NextJS, ReactJS, ChakraUI, Stitches, Radix UI],
+  tools: [NextJS, ReactJS, RemixJS, ChakraUI, Stitches, Radix UI, Prisma],
   askMeAbout: ["web dev", "tech", "app dev", "anime"],
   technologies: {
     backEnd: {
