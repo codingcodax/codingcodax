@@ -7,10 +7,10 @@
   <a href='https://www.codingcodax.dev/' target='_blank'>
     <img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-black?logo=vercel&style=flat-square'>
   </a>
-  <a href='https://linkedin.com/in/codax/' target='_blank'>
+  <a href='https://linkedin.com/in/codingcodax/' target='_blank'>
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-black?logo=LinkedIn&style=flat-square'>
   </a>
-  <a href='mailto:codaxtech@gmail.com' target='_blank'>
+  <a href='mailto:codingcodax@gmail.com' target='_blank'>
     <img alt='Email' src='https://img.shields.io/badge/Email-black?logo=Gmail&style=flat-square'>
   </a>
   <a href='https://twitter.com/codingcodax' target='_blank'>
@@ -21,9 +21,6 @@
   </a>
   <a href='https://www.youtube.com/channel/UCMY0GhV1HuX4XdbgalC77VQ' target='_blank'>
     <img alt='Youtube' src='https://img.shields.io/badge/YouTube-black?logo=Youtube&style=flat-square'>
-  </a>
-  <a href='https://t.me/codingcodax' target='_blank'>
-    <img alt='Telegram' src='https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=ffffff&style=flat-square'>
   </a>
 </p>
 
