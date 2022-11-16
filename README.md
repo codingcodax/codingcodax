@@ -19,7 +19,7 @@
   <a href='https://www.instagram.com/codingcodax/' target='_blank'>
     <img alt='Twitter' src='https://img.shields.io/badge/Instagram-black?logo=Instagram&style=flat-square'>
   </a>
-  <a href='https://www.youtube.com/channel/UCMY0GhV1HuX4XdbgalC77VQ' target='_blank'>
+  <a href='https://www.youtube.com/@codingcodax' target='_blank'>
     <img alt='Youtube' src='https://img.shields.io/badge/YouTube-black?logo=Youtube&style=flat-square'>
   </a>
 </p>
@@ -34,10 +34,10 @@ npx codax
 <h3>A little more about me...</h3>
 
 ```javascript
-const alexis = {
+const codingcodax = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [NextJS, ReactJS, RemixJS, ChakraUI, Stitches, Radix UI, Prisma],
+  tools: [NextJS, ReactJS, Stitches, Radix UI, TailwindCSS, Headless UI, Prisma],
   askMeAbout: ["web dev", "tech", "app dev", "anime"],
   technologies: {
     backEnd: {
