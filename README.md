@@ -27,7 +27,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx codax
+npx codingcodax 
 ```
 **👆 This command line tool can be found at [npx codax](https://github.com/a12989x/npx-codax)**
 
