@@ -29,7 +29,7 @@
 ```bash
 npx codingcodax 
 ```
-**👆 This command line tool can be found at [npx codingcodax](https://github.com/a12989x/npx-codax)**
+**👆 This command line tool can be found at [npx codingcodax](https://github.com/codingcodax/npx-codingcodax)**
 
 <h3>A little more about me...</h3>
 
