@@ -50,7 +50,7 @@ const codingcodax = {
   },
   architecture: ["Progressive web applications", "Single pageapplications"],
   currentFocus: "Next JS App Development",
-  funFact: "There are two ways to write error-free programs; only the third one works"
+  funFact: "I really like the Rubik's cube."
 };
 ```
 
