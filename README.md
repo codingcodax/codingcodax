@@ -3,7 +3,6 @@
 <p><em>Front-end Web Developer</em></p>
 
 <p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=a12989x.a12989x&left_color=black&right_color=gray" alt="visitor badge"/>
   <a href='https://www.codingcodax.dev/' target='_blank'>
     <img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-black?logo=vercel&style=flat-square'>
   </a>
