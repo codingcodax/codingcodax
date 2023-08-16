@@ -3,10 +3,10 @@
 <p><em>Front-end Web Developer</em></p>
 
 <p>
-  <a href='https://www.codingcodax.dev/' target='_blank'>
+  <a href='https://www.codingcodax.dev' target='_blank'>
     <img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-black?logo=vercel&style=flat-square'>
   </a>
-  <a href='https://linkedin.com/in/codingcodax/' target='_blank'>
+  <a href='https://linkedin.com/in/codingcodax' target='_blank'>
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-black?logo=LinkedIn&style=flat-square'>
   </a>
   <a href='mailto:codingcodax@gmail.com' target='_blank'>
@@ -15,7 +15,7 @@
   <a href='https://twitter.com/codingcodax' target='_blank'>
     <img alt='Twitter' src='https://img.shields.io/badge/Twitter-black?logo=Twitter&style=flat-square'>
   </a>
-  <a href='https://www.instagram.com/codingcodax/' target='_blank'>
+  <a href='https://www.instagram.com/codingcodax' target='_blank'>
     <img alt='Twitter' src='https://img.shields.io/badge/Instagram-black?logo=Instagram&style=flat-square'>
   </a>
   <a href='https://www.youtube.com/@codingcodax' target='_blank'>
