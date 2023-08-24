@@ -43,7 +43,7 @@ const codingcodax = {
       js: [Node, Express],
       python: ["Still in waiting list 🥲"]
     },
-    devOps: ["I'm want to learn about this 😊"],
+    devOps: ["I want to learn about this 😊"],
     databases: [Mongo, MySQL],
     misc: [Firebase, Figma]
   },
