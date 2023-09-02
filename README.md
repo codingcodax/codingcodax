@@ -44,7 +44,7 @@ const codingcodax = {
       python: ["Still in waiting list 🥲"]
     },
     devOps: ["I want to learn about this 😊"],
-    databases: [Mongo, MySQL],
+    databases: [Mongo DB, MySQL],
     misc: [Firebase, Figma]
   },
   architecture: ["Progressive web applications", "Single pageapplications"],
