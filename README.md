@@ -49,7 +49,6 @@ const codingcodax = {
   },
   architecture: ["Progressive web applications", "Single pageapplications"],
   currentFocus: "Next JS App Development",
-  funFact: "I really like the Rubik's cube."
 };
 ```
 
