@@ -26,7 +26,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx codingcodax 
+npx codingcodax or pnpm dlx codingcodax 
 ```
 **👆 This command line tool can be found at [npx codingcodax](https://github.com/codingcodax/npx-codingcodax)**
 
