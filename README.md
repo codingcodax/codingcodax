@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2>Hi, I'm Alexis Guzman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<p><em>Front-end Web Developer</em></p>
+<p><em>Front-end web developer</em></p>
 
 <p>
   <a href='https://www.codingcodax.dev' target='_blank'>
