@@ -47,7 +47,7 @@ const codingcodax = {
     databases: [Mongo DB, MySQL],
     misc: [Firebase, Figma]
   },
-  architecture: ["Progressive web applications", "Single pageapplications"],
+  architecture: ["Progressive web applications", "Single page applications"],
   currentFocus: "Next JS App Development",
 };
 ```
