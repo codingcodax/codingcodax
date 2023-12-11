@@ -48,7 +48,7 @@ const codingcodax = {
     misc: [Firebase, Figma]
   },
   architecture: ["Progressive web applications", "Single page applications"],
-  currentFocus: "Next JS App Development",
+  currentFocus: "Docom",
 };
 ```
 
