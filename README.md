@@ -45,7 +45,7 @@ const codingcodax = {
     },
     devOps: ["I want to learn about this 😊"],
     databases: [Mongo DB, MySQL],
-    misc: [Firebase, Figma]
+    misc: [Firebase, Figma, Planetscale]
   },
   architecture: ["Progressive web applications", "Single page applications"],
   currentFocus: "Docom",
