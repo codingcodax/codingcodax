@@ -9,7 +9,7 @@
   <a href='https://linkedin.com/in/codingcodax' target='_blank'>
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-black?logo=LinkedIn&style=flat-square'>
   </a>
-  <a href='mailto:codingcodax@gmail.com' target='_blank'>
+  <a href='mailto:hello@codingcodax.com' target='_blank'>
     <img alt='E-mail' src='https://img.shields.io/badge/Email-black?logo=Gmail&style=flat-square'>
   </a>
   <a href='https://twitter.com/codingcodax' target='_blank'>
