@@ -48,7 +48,7 @@ const codingcodax = {
     misc: [Firebase, Figma, Planetscale]
   },
   architecture: ["Progressive web applications", "Single page applications"],
-  currentFocus: "Kōsori",
+  currentFocus: ["Khutz", "Kōsori"],
 };
 ```
 
