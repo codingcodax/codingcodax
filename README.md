@@ -36,7 +36,7 @@ npx codingcodax
 const codingcodax = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [NextJS, ReactJS, Radix UI, TailwindCSS, Headless UI, Prisma, Shadcn UI],
+  tools: [NextJS, ReactJS, Radix UI, TailwindCSS, Prisma, Shadcn UI],
   askMeAbout: ["web dev", "tech", "app dev", "otaku stuff"],
   technologies: {
     backEnd: {
