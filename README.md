@@ -28,6 +28,8 @@
 <h3 align='center'>A little more about me...</h3>
 
 ```typescript
+#!/usr/bin/env node
+
 class FrontEndDeveloper {
   constructor() {
     this.name = "Alexis Guzman";
