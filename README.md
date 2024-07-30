@@ -1,8 +1,7 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h2>Hi, I'm Alexis Guzman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<p><em>Front-end web developer</em></p>
+<img align='right' src="./Banner.png" width="" />
+<p align='center'>Hey there! I’m <strong>Alexis Guzman</strong>, a passionate developer and entrepreneur based in Mexico. My journey began with a curiosity for technology and a drive to create impactful digital experiences.</p>
 
-<p>
+<div align='center'>
   <a href='https://www.codingcodax.dev' target='_blank'>
     <img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-black?logo=vercel&style=flat-square'>
   </a>
@@ -21,35 +20,33 @@
   <a href='https://www.youtube.com/@codingcodax' target='_blank'>
     <img alt='Youtube' src='https://img.shields.io/badge/YouTube-black?logo=Youtube&style=flat-square'>
   </a>
-</p>
+</div>
 
-👇 Hit in your console or terminal to connect with me.
 
-```bash
-npx codingcodax
-```
-**👆 This command line tool can be found at [npx codingcodax](https://github.com/codingcodax/npx-codingcodax)**
+---
 
-<h3>A little more about me...</h3>
+<h3 align='center'>A little more about me...</h3>
 
-```javascript
-const codingcodax = {
-  pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [NextJS, ReactJS, Radix UI, TailwindCSS, Prisma, Shadcn UI],
-  askMeAbout: ["web dev", "tech", "app dev", "otaku stuff"],
-  technologies: {
-    backEnd: {
-      js: [Node, Express],
-      python: ["Still in waiting list 🥲"]
-    },
-    devOps: ["I want to learn about this 😊"],
-    databases: [Mongo DB, MySQL],
-    misc: [Figma, Supabase]
-  },
-  architecture: ["Progressive web applications", "Single page applications"],
-  currentFocus: ["Khutz", "Kōsori"],
-};
+```typescript
+class FrontEndDeveloper {
+  constructor() {
+    this.name = "Alexis Guzman";
+    this.role = "Front-end Developer";
+    this.languageSpoken = ["es_MX", "en_US"];
+    this.pronouns = ["He", "Him"];
+    this.code = ["HTML", "CSS", "Javascript", "Typescript"];
+    this.tools = ["NextJS", "ReactJS", "Radix UI", "TailwindCSS", "Prisma", "Shadcn UI"];
+    this.askMeAbout = ["web dev", "tech", "app dev", "otaku stuff"];
+  }
+
+  sayHi() {
+    console.log("It was great to see you! I hope you enjoy exploring my work.");
+  }
+}
+
+const codingcodax = new FrontEndDeveloper();
+
+codingcodax.sayHi();
 ```
 
 ---
