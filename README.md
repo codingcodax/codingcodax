@@ -37,7 +37,7 @@ class FrontEndDeveloper {
     this.languageSpoken = ["es_MX", "en_US"];
     this.pronouns = ["He", "Him"];
     this.code = ["HTML", "CSS", "Javascript", "Typescript"];
-    this.tools = ["NextJS", "ReactJS", "Radix UI", "TailwindCSS", "Prisma", "Shadcn UI"];
+    this.tools = ["NextJS", "ReactJS", "Radix UI", "TailwindCSS", "Drizzle", "tRPC"];
     this.askMeAbout = ["web dev", "tech", "app dev", "otaku stuff"];
   }
 
