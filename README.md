@@ -85,13 +85,14 @@ Sunday                   5238 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 11 mins             ██████████████████████░░░   87.57 % 
+TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
