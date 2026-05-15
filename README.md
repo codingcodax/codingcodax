@@ -54,48 +54,7 @@ codingcodax.sayHi();
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C681%20hrs%2043%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.02%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5023 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-🌆 Daytime                9951 commits        █████████████░░░░░░░░░░░░   50.10 % 
-🌃 Evening                4731 commits        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-🌙 Night                  156 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   2590 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Tuesday                  3515 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Wednesday                2835 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Thursday                 2956 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Friday                   3775 commits        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Saturday                 2915 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Sunday                   1275 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-TypeScript               4 hrs 52 mins       ████████████████░░░░░░░░░   65.60 % 
-Other                    2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-
-🔥 Editors: 
-Neovim                   7 hrs 25 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 25 mins       █████████████████████████   99.98 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.03%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
