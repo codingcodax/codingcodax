@@ -54,50 +54,9 @@ codingcodax.sayHi();
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C700%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C701%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.03%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5032 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-🌆 Daytime                9954 commits        █████████████░░░░░░░░░░░░   50.08 % 
-🌃 Evening                4733 commits        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌙 Night                  156 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   2592 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Tuesday                  3515 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Wednesday                2838 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Thursday                 2959 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   3780 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Saturday                 2915 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Sunday                   1276 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-TypeScript               4 hrs 38 mins       ██████████████████████░░░   87.50 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-
-🔥 Editors: 
-Neovim                   5 hrs 17 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      5 hrs 7 mins        ████████████████████████░   96.66 % 
-Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-```
 
 **I Mostly Code in TypeScript** 
 
