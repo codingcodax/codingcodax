@@ -54,49 +54,7 @@ codingcodax.sayHi();
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C703%20hrs%2049%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.02%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4921 commits        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-🌆 Daytime                9835 commits        █████████████░░░░░░░░░░░░   50.35 % 
-🌃 Evening                4620 commits        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-🌙 Night                  156 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   2532 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Tuesday                  3487 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Wednesday                2752 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Thursday                 2860 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Friday                   3720 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Saturday                 2910 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Sunday                   1271 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-Markdown                 1 hr 49 mins        ███████████░░░░░░░░░░░░░░   43.28 % 
-TypeScript               1 hr 48 mins        ███████████░░░░░░░░░░░░░░   43.02 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-
-🔥 Editors: 
-Neovim                   4 hrs 12 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.03%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
