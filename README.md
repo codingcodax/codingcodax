@@ -54,7 +54,50 @@ codingcodax.sayHi();
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C707%20hrs%2053%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.03%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5032 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌆 Daytime                9954 commits        █████████████░░░░░░░░░░░░   50.08 % 
+🌃 Evening                4733 commits        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+🌙 Night                  156 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   2592 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Tuesday                  3515 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Wednesday                2838 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Thursday                 2959 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Friday                   3780 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Saturday                 2915 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Sunday                   1276 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+TypeScript               2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.27 % 
+Markdown                 2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.21 % 
+Other                    1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+TOML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+
+🔥 Editors: 
+Neovim                   7 hrs 29 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      7 hrs 17 mins       ████████████████████████░   97.32 % 
+Linux                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+```
 
 **I Mostly Code in TypeScript** 
 
