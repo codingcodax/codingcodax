@@ -27,7 +27,7 @@
 │  [linkedin]            linkedin.com/in/codingcodax                  |
 │  [x]                   x.com/codingcodax                            |
 │                                                                     │
-│  $ cat gretting.txt                                                 │
+│  $ cat greeting.txt                                                 │
 │                                                                     │
 │  It was great to see you! I hope you enjoy exploring my work.       |
 │                                                                     │
