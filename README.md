@@ -7,13 +7,13 @@
 │  ┌──────────────────────────────────────────────────────────────┐   │⠀⠀⠀
 │  │  Alexis Guzman · Front-end Developer · CDMX, Mexico          │   │
 │  │  Passionate developer & entrepreneur                         │   │
-│  │  Spanis · English                                            │   │
+│  │  Spanish · English                                            │   │
 │  └──────────────────────────────────────────────────────────────┘   │
 │                                                                     │
 │  $ cat stack.conf                                                   │⠀⠀⠀
 │                                                                     │
 │  [languages]           HTML · CSS · JavaScript · TypeScript         │
-│  [frontend]            NextJS · ReactJS · TailwindCSS · ShadCN UI   │
+│  [frontend]            NextJS · ReactJS · TailwindCSS · ShadCN.     │
 │  [backend]             tRPC · Drizzle ORM · PostgreSQL · Docker     │
 │  [tools]               Git · GitHub · Vercel · NVIM                 │
 │                                                                     │
@@ -35,8 +35,3 @@
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
-
-
-
-
-<!--END_SECTION:waka-->
