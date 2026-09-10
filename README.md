@@ -7,7 +7,7 @@
 │  ┌──────────────────────────────────────────────────────────────┐   │⠀⠀⠀
 │  │  Alexis Guzman · Front-end Developer · CDMX, Mexico          │   │
 │  │  Passionate developer & entrepreneur                         │   │
-│  │  Spanish · English                                            │   │
+│  │  Spanish · English                                           │   │
 │  └──────────────────────────────────────────────────────────────┘   │
 │                                                                     │
 │  $ cat stack.conf                                                   │⠀⠀⠀
